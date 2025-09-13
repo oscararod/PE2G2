@@ -1,4 +1,4 @@
-Primer_Corte_PsiEdu2_G2
+## __Primer_Corte_PsiEdu2_G2__ 
 
 | Nombre                                    | Ej 1 | Ej 2 | Ej 3 | Parcial 1 (15%) |
 |-------------------------------------------|:---:|:---:|:---:|:----------------:|
